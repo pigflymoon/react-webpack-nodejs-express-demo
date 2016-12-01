@@ -16,7 +16,7 @@
     "nodejs",
     "express"
   ],
-  "author": "lucy.lu",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/pigflymoon/react-webpack-nodejs-express-demo/issues"
